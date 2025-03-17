@@ -26,8 +26,3 @@ You can run the full project on Google Colab. Simply open the notebook [here](ht
 - numpy
 - scikit-learn
 - matplotlib
-- [Other dependencies]
-
-## License
-
-[Include your chosen license here]
