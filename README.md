@@ -8,7 +8,7 @@ This project uses machine learning to predict landslides based on environmental 
 - **Results**: The model accuracy, with insights into key risk factors.
 - **Conclusion**: This model can assist in early warning systems for landslides. Future work includes real-time data integration.
 
-[View the full report here]([./Landslide_Project_Report.pdf](https://drive.google.com/file/d/1o_7Y2v169jQX3Ae1H7A0mTIzrQuAvyu6/view?usp=drive_link))
+[View the full report here](https://drive.google.com/file/d/1o_7Y2v169jQX3Ae1H7A0mTIzrQuAvyu6/view?usp=drive_link)
 
 ## Running the Project on Google Colab
 
