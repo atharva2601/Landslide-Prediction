@@ -20,9 +20,11 @@ You can run the full project on Google Colab. Simply open the notebook [here](ht
 3. **Upload Dataset**: If the dataset is not included in the notebook, upload it using the file upload functionality in Colab.
 4. **Run the Cells**: Follow the instructions in the notebook to execute each cell for data preprocessing, model training, and evaluation.
 
-## Dependencies
+## Conclusion
 
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
+This work proposed a quick cross-cloud landslide detection method using Sentinel-1 SAR amplitude data and Deep Learning. The findings demonstrate that this approach can reliably map landslides, even under cloud cover. Despite the limitations of SAR data, this method provides a timely solution for emergency response, enabling rapid mapping of landslides within a week of occurrence.
+
+![Model Predictions](<img width="848" alt="image" src="https://github.com/user-attachments/assets/d2848063-9140-45b6-8d5d-3f4e69e60ef7" />
+)  <!-- Add image file path here -->
+![Validating Model](![image](https://github.com/user-attachments/assets/ea99e00d-f14d-4f4c-8544-73e512b1a4f2)
+)  <!-- Add image file path here -->
