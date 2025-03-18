@@ -2,7 +2,7 @@
 
 This directory contains the dataset used for the landslide prediction project. The data is split into three sets: training, validation, and test. Each set contains multispectral image patches in H5 format and is organized into subfolders.
 
-[Dataset](https://drive.google.com/drive/folders/1Xz4ZYCyQBUJIwn5PLON42LclyB-xG0I1?usp=drive_link)
+[Dataset](https://drive.google.com/drive/folders/1Xz4ZYCyQBUJIwn5PLON42LclyB-xG0I1?usp=sharing)
 
 ## Dataset Structure
 
